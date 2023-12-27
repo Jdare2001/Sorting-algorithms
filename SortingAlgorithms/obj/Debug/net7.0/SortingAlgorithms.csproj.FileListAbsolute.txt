@@ -1,0 +1,14 @@
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/bin/Debug/net7.0/SortingAlgorithms
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/bin/Debug/net7.0/SortingAlgorithms.deps.json
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/bin/Debug/net7.0/SortingAlgorithms.runtimeconfig.json
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/bin/Debug/net7.0/SortingAlgorithms.dll
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/bin/Debug/net7.0/SortingAlgorithms.pdb
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/obj/Debug/net7.0/SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/obj/Debug/net7.0/SortingAlgorithms.AssemblyInfoInputs.cache
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/obj/Debug/net7.0/SortingAlgorithms.AssemblyInfo.cs
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/obj/Debug/net7.0/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/obj/Debug/net7.0/SortingAlgorithms.dll
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/obj/Debug/net7.0/refint/SortingAlgorithms.dll
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/obj/Debug/net7.0/SortingAlgorithms.pdb
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/obj/Debug/net7.0/SortingAlgorithms.genruntimeconfig.cache
+/Users/jaydendare/Documents/C#/Sorting algorithms/SortingAlgorithms/obj/Debug/net7.0/ref/SortingAlgorithms.dll
