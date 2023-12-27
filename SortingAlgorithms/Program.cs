@@ -18,12 +18,9 @@ public class Sorter{
         Console.WriteLine("[{0}]", string.Join(", ", ints));
         Console.WriteLine("Sorting");
         int[] sortedArray = new int[6];
-        sortedArray = bubbleSort.AssendingSort(ints);
+        sortedArray = bubbleSort.AscendingSort(ints);
         Console.WriteLine("[{0}]", string.Join(", ", sortedArray));
 
-        
-        
-        
 
     }
 
