@@ -1,15 +1,14 @@
 class InsertionSort{
-    public int[] ascsort(int[] ints){
+    public int[] Ascsort(int[] ints){
         int intsSize = ints.Length;
-        for(int i = 1; i < intsSize; i++){
-            int key = ints[i];
-            int j = i;
-
-            while(j >= 0 && ints[j] > key){
-                ints[j+1]= ints[j];
-                j = j-1;
+        for(int i = 0; i < intsSize-1; i++){
+            for(int j = i +1; j > 0; j--){
+                if(ints[j-1]> ints[j]){
+                    int temp = ints[j-1];
+                    ints[j-1] = ints[j];
+                    ints[j] = temp;
+                }
             }
-            ints[j+1] = key;
         }
 
 
