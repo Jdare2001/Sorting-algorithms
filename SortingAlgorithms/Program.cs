@@ -9,6 +9,7 @@ public class Sorter{
     
     public static void Main(string[] args){
         BubbleSort bubbleSort = new BubbleSort();
+        InsertionSort insertionSorter =new InsertionSort();
         Random numberGen = new Random();
         Console.WriteLine("bubble sorter");
         int[] ints = new int[6];
@@ -18,7 +19,7 @@ public class Sorter{
         Console.WriteLine("[{0}]", string.Join(", ", ints));
         Console.WriteLine("Sorting");
         int[] sortedArray = new int[6];
-        sortedArray = bubbleSort.DescendingSort(ints);
+        sortedArray = insertionSorter.ascsort(sortedArray);
         Console.WriteLine("[{0}]", string.Join(", ", sortedArray));
 
 
