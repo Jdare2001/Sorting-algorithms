@@ -19,7 +19,7 @@ public class Sorter{
         Console.WriteLine("[{0}]", string.Join(", ", ints));
         Console.WriteLine("Sorting");
 
-        int [] sortedArray = insertionSorter.Ascsort(ints);
+        int [] sortedArray = insertionSorter.AscSort(ints);
         Console.WriteLine("[{0}]", string.Join(", ", sortedArray));
 
 
